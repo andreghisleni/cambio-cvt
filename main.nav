@@ -35,15 +35,17 @@
 \headcommand {\sectionentry {7}{Conclusão}{8}{Conclusão}{0}}
 \headcommand {\slideentry {7}{0}{1}{8/8}{}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@sectionpages {8}{8}}
-\headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\sectionentry {8}{Referências}{9}{Referências}{0}}
-\headcommand {\slideentry {8}{0}{1}{9/9}{}{0}}
+\headcommand {\slideentry {7}{0}{2}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {8}{0}{2}{10/10}{}{0}}
+\headcommand {\beamer@sectionpages {8}{9}}
+\headcommand {\beamer@subsectionpages {8}{9}}
+\headcommand {\sectionentry {8}{Referências}{10}{Referências}{0}}
+\headcommand {\slideentry {8}{0}{1}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@partpages {1}{10}}
-\headcommand {\beamer@subsectionpages {9}{10}}
-\headcommand {\beamer@sectionpages {9}{10}}
-\headcommand {\beamer@documentpages {10}}
-\headcommand {\gdef \inserttotalframenumber {10}}
+\headcommand {\slideentry {8}{0}{2}{11/11}{}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@partpages {1}{11}}
+\headcommand {\beamer@subsectionpages {10}{11}}
+\headcommand {\beamer@sectionpages {10}{11}}
+\headcommand {\beamer@documentpages {11}}
+\headcommand {\gdef \inserttotalframenumber {11}}
